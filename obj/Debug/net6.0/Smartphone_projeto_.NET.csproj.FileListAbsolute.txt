@@ -1,0 +1,15 @@
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\bin\Debug\net6.0\Smartphone_projeto_.NET.exe
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\bin\Debug\net6.0\Smartphone_projeto_.NET.deps.json
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\bin\Debug\net6.0\Smartphone_projeto_.NET.runtimeconfig.json
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\bin\Debug\net6.0\Smartphone_projeto_.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\bin\Debug\net6.0\Smartphone_projeto_.NET.pdb
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.csproj.AssemblyReference.cache
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.AssemblyInfoInputs.cache
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.AssemblyInfo.cs
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.csproj.CoreCompileInputs.cache
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\refint\Smartphone_projeto_.NET.dll
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.pdb
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\Smartphone_projeto_.NET.genruntimeconfig.cache
+C:\Users\Gabriel Amorim\RiderProjects\Smartphone_projeto_.NET\Smartphone_projeto_.NET\obj\Debug\net6.0\ref\Smartphone_projeto_.NET.dll
